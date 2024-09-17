@@ -13,7 +13,3 @@ page=es_subscribers&is_ajax=1&action=_sent&advanced_filter[conditions][0][0][fie
 #Resource: https://www.wordfence.com/blog/2024/04/1250-bounty-awarded-for-unauthenticated-sql-injection-vulnerability-patched-in-email-subscribers-by-icegram-express-wordpress-plugin/
 
 
-Jarvis logo
-Ctrl+ J
-
-CVE-2024-2876/README.md at main · Quantum-Hacker/CVE-2024-2876
